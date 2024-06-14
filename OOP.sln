@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{573F8DD6-5FD6-4BE0-9078-9B096C48F737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{573F8DD6-5FD6-4BE0-9078-9B096C48F737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPls1", "OOPls1\OOPls1.csproj", "{AC370860-3E9B-45EF-93FB-6451F999111A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPls1", "OOPls1\OOPls1.csproj", "{AC370860-3E9B-45EF-93FB-6451F999111A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPls2", "OOPls2\OOPls2.csproj", "{80C2D5CD-B0BF-4570-885A-50BE043C5836}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPls2", "OOPls2\OOPls2.csproj", "{80C2D5CD-B0BF-4570-885A-50BE043C5836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPls3", "OOPls3\OOPls3.csproj", "{903F4E2F-CE82-4862-BB7C-5E0EC96AB1F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{80C2D5CD-B0BF-4570-885A-50BE043C5836}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80C2D5CD-B0BF-4570-885A-50BE043C5836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80C2D5CD-B0BF-4570-885A-50BE043C5836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903F4E2F-CE82-4862-BB7C-5E0EC96AB1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903F4E2F-CE82-4862-BB7C-5E0EC96AB1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903F4E2F-CE82-4862-BB7C-5E0EC96AB1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903F4E2F-CE82-4862-BB7C-5E0EC96AB1F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
