@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPls5", "OOPls5\OOPls5.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPls6", "OOPls6\OOPls6.csproj", "{7B491BC7-EC73-46A9-B17F-FD56698585BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPls7", "OOPls7\OOPls7.csproj", "{D64AA8DA-A3CA-4D03-86BF-B033CF9B8D55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7B491BC7-EC73-46A9-B17F-FD56698585BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B491BC7-EC73-46A9-B17F-FD56698585BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B491BC7-EC73-46A9-B17F-FD56698585BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D64AA8DA-A3CA-4D03-86BF-B033CF9B8D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64AA8DA-A3CA-4D03-86BF-B033CF9B8D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64AA8DA-A3CA-4D03-86BF-B033CF9B8D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64AA8DA-A3CA-4D03-86BF-B033CF9B8D55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
