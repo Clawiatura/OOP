@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPls9", "OOPls9\OOPls9.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "index", "index\index.csproj", "{BD106576-BAF3-4B3B-949A-FDDD00AC83C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP10", "OOP10\OOP10.csproj", "{63303FA4-50E6-48DA-98E8-CB46A9F6F64C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP10", "OOP10\OOP10.csproj", "{63303FA4-50E6-48DA-98E8-CB46A9F6F64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вертуальные методы", "Вертуальные методы\Вертуальные методы.csproj", "{0F8E2C5B-D4F4-4263-A79D-6D2111B94B2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{63303FA4-50E6-48DA-98E8-CB46A9F6F64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63303FA4-50E6-48DA-98E8-CB46A9F6F64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63303FA4-50E6-48DA-98E8-CB46A9F6F64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8E2C5B-D4F4-4263-A79D-6D2111B94B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8E2C5B-D4F4-4263-A79D-6D2111B94B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8E2C5B-D4F4-4263-A79D-6D2111B94B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8E2C5B-D4F4-4263-A79D-6D2111B94B2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
