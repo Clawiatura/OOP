@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP10", "OOP10\OOP10.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вертуальные методы", "Вертуальные методы\Вертуальные методы.csproj", "{0F8E2C5B-D4F4-4263-A79D-6D2111B94B2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoBase", "AutoBase\AutoBase.csproj", "{63910D92-2D7D-4837-9505-9A3CC3E4E74B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0F8E2C5B-D4F4-4263-A79D-6D2111B94B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F8E2C5B-D4F4-4263-A79D-6D2111B94B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F8E2C5B-D4F4-4263-A79D-6D2111B94B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63910D92-2D7D-4837-9505-9A3CC3E4E74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63910D92-2D7D-4837-9505-9A3CC3E4E74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63910D92-2D7D-4837-9505-9A3CC3E4E74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63910D92-2D7D-4837-9505-9A3CC3E4E74B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
