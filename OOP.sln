@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Абстракнные кл
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Операции над колекциями", "Операции над колекциями\Операции над колекциями.csproj", "{4AB60658-3E4F-4CF4-9EB4-2504A5F534D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{E38B6401-3737-4D03-97CE-ADFD4995D1A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{4AB60658-3E4F-4CF4-9EB4-2504A5F534D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB60658-3E4F-4CF4-9EB4-2504A5F534D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB60658-3E4F-4CF4-9EB4-2504A5F534D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38B6401-3737-4D03-97CE-ADFD4995D1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38B6401-3737-4D03-97CE-ADFD4995D1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38B6401-3737-4D03-97CE-ADFD4995D1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38B6401-3737-4D03-97CE-ADFD4995D1A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
