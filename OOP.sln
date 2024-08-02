@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "interf", "int\interf.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sotrudnik", "sotrudnik\sotrudnik.csproj", "{6E938B8D-4B7C-463B-8BC9-BA9CE1BE4ABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practics", "Practics\Practics.csproj", "{395CEF1E-43C0-4643-90E8-DED508CF6A6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practics", "Practics\Practics.csproj", "{395CEF1E-43C0-4643-90E8-DED508CF6A6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticsDesktop", "PracticsDesktop\bin\Debug\net8.0-windows\PracticsDesktop.csproj", "{12B6C815-0EE7-44CA-AE2D-827DCDE23281}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{395CEF1E-43C0-4643-90E8-DED508CF6A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{395CEF1E-43C0-4643-90E8-DED508CF6A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{395CEF1E-43C0-4643-90E8-DED508CF6A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B6C815-0EE7-44CA-AE2D-827DCDE23281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B6C815-0EE7-44CA-AE2D-827DCDE23281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B6C815-0EE7-44CA-AE2D-827DCDE23281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B6C815-0EE7-44CA-AE2D-827DCDE23281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
