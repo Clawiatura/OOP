@@ -8,12 +8,15 @@ using System.Threading.Tasks;
 
 namespace sotrudnik
 {
-    internal class Employee: IComparable<Employee>, IEnumerable<Task>
+    internal class Employee: IComparable<Employee>, IEnumerable<Tusk>
     {
         public string? name { get; set; }
         public int? id { get; set; }
-        public List<Tusk> Tusks { get; set;} = new List<Tusk>();
+        public List<Tusk> Tusks { get; set; }
 
+        
+
+        
         public int CompareTo(Employee? other)
         {
             int taskComparison = this.Tusks.Count.CompareTo(other.Tusks.Count);
@@ -30,8 +33,8 @@ namespace sotrudnik
         }
 
 
-        public IEnumerator<Task> GetEnumerator()
 
+        public IEnumerator<Tusk> GetEnumerator()
         {
             return Tusks.GetEnumerator();
         }
