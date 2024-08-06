@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practics", "Practics\Practi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticsDesktop", "PracticsDesktop\bin\Debug\net8.0-windows\PracticsDesktop.csproj", "{12B6C815-0EE7-44CA-AE2D-827DCDE23281}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anonim metods", "anonim metods\anonim metods.csproj", "{0BB31627-09A3-4249-8012-01587D9C51AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "anonim metods", "anonim metods\anonim metods.csproj", "{0BB31627-09A3-4249-8012-01587D9C51AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{1739E6DE-A1AA-4DA8-A15B-77F65B8AEE50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{0BB31627-09A3-4249-8012-01587D9C51AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BB31627-09A3-4249-8012-01587D9C51AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BB31627-09A3-4249-8012-01587D9C51AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1739E6DE-A1AA-4DA8-A15B-77F65B8AEE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1739E6DE-A1AA-4DA8-A15B-77F65B8AEE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1739E6DE-A1AA-4DA8-A15B-77F65B8AEE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1739E6DE-A1AA-4DA8-A15B-77F65B8AEE50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
