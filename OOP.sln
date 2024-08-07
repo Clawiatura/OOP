@@ -51,9 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticsDesktop", "Practics
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "anonim metods", "anonim metods\anonim metods.csproj", "{0BB31627-09A3-4249-8012-01587D9C51AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{1739E6DE-A1AA-4DA8-A15B-77F65B8AEE50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Json", "Json\Json.csproj", "{1739E6DE-A1AA-4DA8-A15B-77F65B8AEE50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{1608FFF5-704B-48BF-8E9B-20896F190CA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csproj", "{1608FFF5-704B-48BF-8E9B-20896F190CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{DC299BF1-48C9-4FA1-973D-50FEAFBB2FE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{1608FFF5-704B-48BF-8E9B-20896F190CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1608FFF5-704B-48BF-8E9B-20896F190CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1608FFF5-704B-48BF-8E9B-20896F190CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC299BF1-48C9-4FA1-973D-50FEAFBB2FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC299BF1-48C9-4FA1-973D-50FEAFBB2FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC299BF1-48C9-4FA1-973D-50FEAFBB2FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC299BF1-48C9-4FA1-973D-50FEAFBB2FE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
