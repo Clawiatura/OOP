@@ -91,6 +91,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Async", "Async\Async.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSnowflake", "GameSnowflake\GameSnowflake.csproj", "{55ACD3D8-2591-4CF9-81B2-78B5ED00EAB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{DAA679DC-D12F-4CF5-AAB2-42055341D440}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{55ACD3D8-2591-4CF9-81B2-78B5ED00EAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55ACD3D8-2591-4CF9-81B2-78B5ED00EAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55ACD3D8-2591-4CF9-81B2-78B5ED00EAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA679DC-D12F-4CF5-AAB2-42055341D440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA679DC-D12F-4CF5-AAB2-42055341D440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA679DC-D12F-4CF5-AAB2-42055341D440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA679DC-D12F-4CF5-AAB2-42055341D440}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
